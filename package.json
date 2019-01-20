@@ -1,0 +1,27 @@
+{
+  "name": "mem-swamphacks-2019",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/water-a/Mem-SwampHacks-2019.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/water-a/Mem-SwampHacks-2019/issues"
+  },
+  "homepage": "https://github.com/water-a/Mem-SwampHacks-2019#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-fileupload": "^1.1.1-alpha.1",
+    "mongoose": "^5.4.5",
+    "nodemon": "^1.18.9",
+    "request": "^2.88.0"
+  }
+}
